@@ -1,6 +1,5 @@
 ## Hi there 👋
-[![MasterHead](your image link)](your GitHub link)
-Ansh Shakya
+[![MasterHead](https://unsplash.com/photos/a-black-and-white-photo-of-wavy-lines-8Ed7ldybPa0)](https://github.com/AnshBytes)
 
 <!--
 **AnshBytes/AnshBytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
